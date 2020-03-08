@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d403479e-93c1-4f1d-a6df-6a47810c7b30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YefobBTOxc43GM1wC9fsmqZoK5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="playground.kanand.tutorial1.ProducerDemoWithKeys" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="playground.kanand.tutorial1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsumerDemoWithThreads">
+    <configuration name="ConsumerDemoGroups" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.kanand.tutorial1.ConsumerDemoGroups" />
+      <module name="kafka-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.kanand.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerDemoWithThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.kanand.tutorial1.ConsumerDemoWithThreads" />
+      <module name="kafka-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.kanand.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.kanand.tutorial1.ProducerDemo" />
+      <module name="kafka-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.kanand.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.kanand.tutorial1.ProducerDemoWithCallback" />
+      <module name="kafka-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.kanand.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerDemoWithKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.kanand.tutorial1.ProducerDemoWithKeys" />
+      <module name="kafka-begin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.kanand.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerDemoGroups" />
+      <item itemvalue="Application.ProducerDemo" />
+      <item itemvalue="Application.ProducerDemoWithCallback" />
+      <item itemvalue="Application.ProducerDemoWithKeys" />
+      <item itemvalue="Application.ConsumerDemoWithThreads" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerDemoWithThreads" />
+        <item itemvalue="Application.ProducerDemoWithKeys" />
+        <item itemvalue="Application.ConsumerDemoGroups" />
+        <item itemvalue="Application.ProducerDemoWithCallback" />
+        <item itemvalue="Application.ProducerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d403479e-93c1-4f1d-a6df-6a47810c7b30" name="Default Changelist" comment="" />
+      <created>1583308156857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583308156857</updated>
+      <workItem from="1583308167473" duration="10632000" />
+      <workItem from="1583654056107" duration="1232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1918" y="198" key="#Project_Structure" timestamp="1583314729062">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1918" y="198" key="#Project_Structure/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583314729062" />
+    <state x="1780" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583329839035">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1780" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583329839035" />
+    <state x="2131" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1583330052017">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2131" y="249" key="#com.intellij.ide.util.MemberChooser/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583330052017" />
+    <state x="500" y="125" key="FileChooserDialogImpl" timestamp="1583654696882">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="500" y="125" key="FileChooserDialogImpl/74.0.1292.768@74.0.1292.768" timestamp="1583654696882" />
+    <state x="542" y="299" key="Github.CreateGistDialog" timestamp="1583654174430">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="542" y="299" key="Github.CreateGistDialog/74.0.1292.768@74.0.1292.768" timestamp="1583654174430" />
+    <state x="590" y="277" key="Github.ShareDialog" timestamp="1583654921405">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="590" y="277" key="Github.ShareDialog/74.0.1292.768@74.0.1292.768" timestamp="1583654921405" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1583332777616">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583332777616" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1583332777616">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583332777616" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1583332777616">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583332777616" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1583332777616">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583332777616" />
+    <state x="368" y="52" key="SettingsEditor" timestamp="1583655277146">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="1827" y="182" key="SettingsEditor/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583314883493" />
+    <state x="368" y="52" key="SettingsEditor/74.0.1292.768@74.0.1292.768" timestamp="1583655277146" />
+    <state x="2142" y="317" key="chooseDestDirectoryDialog" timestamp="1583314584659">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2142" y="317" key="chooseDestDirectoryDialog/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583314584659" />
+    <state x="529" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1583654056815">
+      <screen x="74" y="0" width="1292" height="768" />
+    </state>
+    <state x="2042" y="233" key="com.intellij.ide.util.TipDialog/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583308185056" />
+    <state x="529" y="166" key="com.intellij.ide.util.TipDialog/74.0.1292.768@74.0.1292.768" timestamp="1583654056815" />
+    <state x="2056" y="295" key="extract.method.dialog" timestamp="1583331055312">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2056" y="295" key="extract.method.dialog/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583331055312" />
+    <state x="1958" y="85" width="736" height="909" key="find.popup" timestamp="1583325548171">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1958" y="85" width="736" height="909" key="find.popup/74.0.1292.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1583325548171" />
+  </component>
+</project>
