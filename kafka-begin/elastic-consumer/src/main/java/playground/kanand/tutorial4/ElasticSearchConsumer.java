@@ -37,9 +37,9 @@ public class ElasticSearchConsumer {
     public static final String SEP      = "\t|";
 
     private static RestHighLevelClient createClient() {
-        String username = "1ieychyn4k";
-        String password = "odba3rdt1d";
-        String hostname = "twitter-feed-6070889479.eu-west-1.bonsaisearch.net";
+        String username = "";
+        String password = "";
+        String hostname = "";
 
         final CredentialsProvider credentialProvider    = new BasicCredentialsProvider();
         credentialProvider.setCredentials(AuthScope.ANY, new UsernamePasswordCredentials(username, password));
